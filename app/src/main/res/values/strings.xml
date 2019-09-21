@@ -1,3 +1,4 @@
 <resources>
+    <string name="town">Hello Android!!</string>
     <string name="app_name">Hello</string>
 </resources>
